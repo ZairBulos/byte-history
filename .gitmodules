@@ -1,3 +1,6 @@
 [submodule "worker"]
 	path = worker
 	url = https://github.com/ZairBulos/byte-history-worker.git
+[submodule "api"]
+	path = api
+	url = https://github.com/ZairBulos/byte-history-api.git

@@ -44,7 +44,7 @@ This repository serves as the monorepo and integration point for the Byte Histor
 
 | Component                                                                             | Platform              |
 | ------------------------------------------------------------------------------------- | --------------------- |
-| [API](https://byte-history-api.onrender.com/swagger-ui.html)                          | Render                |
+| [API](https://diverse-gilberta-zairbulos-952039d2.koyeb.app/swagger-ui/index.html)    | Koyeb                 |
 | [Website](https://byte-history-site.vercel.app/)                                      | Vercel                |
 | [Worker](https://github.com/ZairBulos/byte-history-worker/actions/workflows/main.yml) | GitHub Actions (cron) |
 
